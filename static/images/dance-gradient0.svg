@@ -25,7 +25,7 @@
   <text text-anchor="middle"
         font-family="Inter, sans-serif"
         font-weight="700"
-        font-size="48"
+        font-size="72"
         fill="url(#rainbow)">
     <tspan x="50%" y="170">DanceTogether! Identity-Preserving</tspan>
     <tspan x="50%" dy="56">Multi-Person Interactive Video Generation</tspan>
