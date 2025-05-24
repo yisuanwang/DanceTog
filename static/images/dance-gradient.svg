@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100%" height="90" viewBox="0 0 2000 90"
+     xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+
+  <!-- 1. 跑马灯渐变定义 -->
+  <defs>
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#ff8a00"/>
+      <stop offset="25%"  stop-color="#e52e71"/>
+      <stop offset="50%"  stop-color="#ff6b6b"/>
+      <stop offset="75%"  stop-color="#feca57"/>
+      <stop offset="100%" stop-color="#54a0ff"/>
+
+      <!-- 左→右循环滚动 -->
+      <animate attributeName="x1" values="0%;200%" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;300%" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 2. Logo（按需调整路径/大小） -->
+  <image href="./logo.png" x="0" y="5" height="80" />
+
+  <!-- 3. 标题文字 -->
+  <text x="90" y="60"
+        font-family="Inter, sans-serif"
+        font-weight="700"
+        font-size="48">
+    <!-- 彩虹渐变部分 -->
+    <tspan fill="url(#rainbow)">DanceTogether!</tspan>
+    <!-- 普通黑色部分（用空格分隔） -->
+    <tspan fill="#000">
+       Identity-Preserving Multi-Person Interactive Video Generation
+    </tspan>
+  </text>
+</svg>
