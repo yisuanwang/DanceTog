@@ -28,6 +28,6 @@
         font-size="72"
         fill="url(#rainbow)">
     <tspan x="50%" y="170">DanceTogether! Identity-Preserving</tspan>
-    <tspan x="50%" dy="56">Multi-Person Interactive Video Generation</tspan>
+    <tspan x="50%" dy="85">Multi-Person Interactive Video Generation</tspan>
   </text>
 </svg>
