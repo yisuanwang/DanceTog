@@ -5,12 +5,22 @@
   <a href="https://dancetog.github.io/">DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation</a>
 </h1> -->
 
-
 <h1>
-  <!-- <img src="static/images/logo.png" alt="DanceTogether logo" style="height: 1em; vertical-align: -0.15em; margin-right: 0.3em;"> -->
+  <a href="https://dancetog.github.io/" style="vertical-align:middle;">
+    <img src="static/images/dance-gradient0.svg"
+         alt="DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation"
+         height="80"     
+         style="vertical-align:middle;">
+  </a>
+</h1>
+
+
+
+<!-- <h1>
+  <img src="static/images/logo.png" alt="DanceTogether logo" style="height: 1em; vertical-align: -0.15em; margin-right: 0.3em;">
   <img src="static/images/dance-gradient0.svg" href="https://dancetog.github.io/"
        alt="DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation">
-</h1>
+</h1> -->
 
 <!-- 
 <p align="center">
