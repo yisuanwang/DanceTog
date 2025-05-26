@@ -1,9 +1,6 @@
 <div align="center">
-<!-- 
-<h1>
-  <img src="static/images/logo.png" alt="DanceTogether logo" style="height: 1em; vertical-align: -0.15em; margin-right: 0.3em;">
-  <a href="https://dancetog.github.io/">DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation</a>
-</h1> -->
+
+
 
 <h1>
   <a href="https://dancetog.github.io/" style="vertical-align:middle;">
@@ -15,18 +12,6 @@
 </h1>
 
 
-
-<!-- <h1>
-  <img src="static/images/logo.png" alt="DanceTogether logo" style="height: 1em; vertical-align: -0.15em; margin-right: 0.3em;">
-  <img src="static/images/dance-gradient0.svg" href="https://dancetog.github.io/"
-       alt="DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation">
-</h1> -->
-
-<!-- 
-<p align="center">
-  <img src="static/images/dance-gradient0.svg"
-       alt="DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation">
-</p> -->
 
 
 
@@ -42,8 +27,8 @@
 
 <!-- [![hf_space](https://img.shields.io/badge/🤗-LeaderBoard-blue.svg)](xxx)
 [![hf_space](https://img.shields.io/badge/🤗-Paper%20In%20HF-red.svg)](xxx)
-[![hf_space](https://img.shields.io/badge/🤗-Online_Demo-yellow.svg)](xxx)
-[![arXiv](https://img.shields.io/badge/Arxiv-2406.18522-b31b1b.svg?logo=arXiv)](xxx)  -->
+[![hf_space](https://img.shields.io/badge/🤗-Online_Demo-yellow.svg)](xxx) -->
+[![arXiv](https://img.shields.io/badge/Arxiv-2505.18078-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2505.18078) 
 [![Home Page](static/images/homepage.svg)](https://dancetog.github.io/) 
 <!-- [![Dataset](https://img.shields.io/badge/Dataset-PairFS_4K-green)](xxx)
 [![Dataset](https://img.shields.io/badge/Dataset-HumanRob_300-green)](xxx)
@@ -56,8 +41,7 @@
 
 
 ![teaser](static/images/case01.gif)
-
-
+DanceTog generates video with interactive details from a single reference image and independent pose and mask sequences, while maintaining consistent identities even during frequent position exchanges between multiple individuals.
 
 
 </div>
@@ -65,7 +49,14 @@
 
 # Citation
 ```bibtex
-xxx
+@article{chen2025dancetogether,
+  title     = {DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation},
+  author    = {Chen, Junhao and Chen, Mingjin and Xu, Jianjin and Li, Xiang and Dong, Junting and Sun, Mingze and Jiang, Puhua and Li, Hongxiang and Yang, Yuhang and Zhao, Hao and Long, Xiaoxiao and Huang, Ruqi},
+  journal   = {arXiv preprint arXiv:2505.18078},
+  year      = {2025},
+  month     = {May},
+  url       = {https://arxiv.org/abs/2505.18078},
+}
 ```
 
 
