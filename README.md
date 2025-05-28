@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 <h1>
   <a href="https://dancetog.github.io/" style="vertical-align:middle;">
     <img src="static/images/dance-gradient0.svg"
@@ -10,10 +8,6 @@
          style="vertical-align:middle;">
   </a>
 </h1>
-
-
-
-
 
 **[Junhao Chen](https://scholar.google.com/citations?hl=en&user=uVMnzPMAAAAJ)<sup>1</sup>**, **Mingjin Chen<sup>2</sup>**, **[Jianjin Xu](https://scholar.google.com/citations?hl=en&user=mTV0usAAAAAJ)<sup>3</sup>**, **[Xiang Li](https://scholar.google.com/citations?user=_wyYvQsAAAAJ&hl=en&oi=sra)<sup>4</sup>**, **[Junting Dong](https://scholar.google.com/citations?user=dEzL5pAAAAAJ&hl=en)<sup>5†</sup>**
 
@@ -50,12 +44,13 @@ DanceTog generates video with interactive details from a single reference image 
 # Citation
 ```bibtex
 @article{chen2025dancetogether,
-  title     = {DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation},
-  author    = {Chen, Junhao and Chen, Mingjin and Xu, Jianjin and Li, Xiang and Dong, Junting and Sun, Mingze and Jiang, Puhua and Li, Hongxiang and Yang, Yuhang and Zhao, Hao and Long, Xiaoxiao and Huang, Ruqi},
-  journal   = {arXiv preprint arXiv:2505.18078},
-  year      = {2025},
-  month     = {May},
-  url       = {https://arxiv.org/abs/2505.18078},
+      title={DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation}, 
+      author={Junhao Chen and Mingjin Chen and Jianjin Xu and Xiang Li and Junting Dong and Mingze Sun and Puhua Jiang and Hongxiang Li and Yuhang Yang and Hao Zhao and Xiaoxiao Long and Ruqi Huang},
+      year={2025},
+      eprint={2505.18078},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.18078}, 
 }
 ```
 
