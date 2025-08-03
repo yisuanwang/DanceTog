@@ -33,11 +33,13 @@
 
 
 
-
-![teaser](static/images/case00.gif)
 ![teaser](static/images/case01.gif)
 DanceTog generates video with interactive details from a single reference image and independent pose and mask sequences, while maintaining consistent identities even during frequent position exchanges between multiple individuals.
 
+
+
+![teaser](static/images/case00.gif)
+Given the condition estimated from the same driving video, DanceTog can transfer it to other reference images and generate complex interactive motions and character details (skirt, hair).
 
 </div>
 
