@@ -34,6 +34,7 @@
 
 
 
+![teaser](static/images/case00.gif)
 ![teaser](static/images/case01.gif)
 DanceTog generates video with interactive details from a single reference image and independent pose and mask sequences, while maintaining consistent identities even during frequent position exchanges between multiple individuals.
 
